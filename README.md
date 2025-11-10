@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# sorting-visualizer
+A beautiful and interactive sorting algorithm visualizer built with React. Supports Bubble, Selection, Insertion, Merge, and Quick Sort with animations, speed control, array size control, and dark/light mode.
+>>>>>>> ba85a7057bea5716483ccd45788fc94b0412ac64
